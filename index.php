@@ -63,7 +63,7 @@
 
             </div>
 
-            <div class="powered">App powered by <a href="https://mfc.ke" target="_blank">NetGO+</a></div>
+            <div class="powered">App powered by <a href="#" target="_blank">NetGO+</a></div>
         </div>
     </div>
     <!--<script src='functions.js'></script>-->
