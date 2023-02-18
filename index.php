@@ -1,5 +1,4 @@
 <html lang="en">
-
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -7,7 +6,6 @@
     <link rel="icon" href="assets/favicon.png" sizes="16x16" type="image/png">
     <link rel="stylesheet" href="assets/payment.css" />
 </head>
-
 <body>
     <div class="card-container">
         <div class="top">
