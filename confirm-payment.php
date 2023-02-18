@@ -45,7 +45,6 @@
                             <button type="submit" id="complete_btn" class="pay-btn">Complete Order</button>
                         </div>
                     </form>
-
                 </div>
 
             </div>
