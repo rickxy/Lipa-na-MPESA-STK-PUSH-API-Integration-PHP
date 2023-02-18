@@ -38,7 +38,6 @@
                         <p class="error"><?php echo $_GET['error']; ?></p>
                     <?php unset($_GET['error']);
                     } ?>
-
                 </div>
                 <div class="name-area">
                     <form class="login" action="api/request-payment.php" method="POST" enctype="multipart/form-data" id='payment_form'>
