@@ -50,7 +50,6 @@
                         </div>
                     </form>
                 </div>
-
             </div>
 
             <div class="powered">App powered by <a href="#" target="_blank">NetGO+</a></div>
