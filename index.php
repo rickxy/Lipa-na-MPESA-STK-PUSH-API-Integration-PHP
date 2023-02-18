@@ -31,7 +31,6 @@
                     </div>
                     <div class="pay-instruction">
                         <p>1. Click on the <b>Pay</b> button in order to initiate the M-PESA payment.<br />
-
                             2. Check your mobile phone for a prompt asking to enter M-PESA pin.
 
 
