@@ -23,7 +23,6 @@
             </div>
             <div class="border"></div>
         </div>
-
         <div class="form-box">
             <div class="card-box">
                 <div class="main-content">
