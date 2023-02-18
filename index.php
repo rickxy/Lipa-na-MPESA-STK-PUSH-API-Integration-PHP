@@ -49,7 +49,6 @@
                             <input type="submit" name="submit" value="Make Payment" class="pay-btn">
                         </div>
                     </form>
-
                 </div>
 
             </div>
