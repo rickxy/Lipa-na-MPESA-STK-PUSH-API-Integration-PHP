@@ -32,7 +32,6 @@
                     <div class="pay-instruction">
                         <p>
                             3. Enter your <b>M-PESA PIN</b> and the amount specified on the
-
                             notification will be deducted from your M-PESA account when you press send.<br />
 
                             4. You will receive an M-PESA payment confirmation message on your mobile phone.<br />
