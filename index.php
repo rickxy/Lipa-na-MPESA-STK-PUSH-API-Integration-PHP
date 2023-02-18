@@ -34,7 +34,6 @@
                             2. Check your mobile phone for a prompt asking to enter M-PESA pin.
                         </p>
                     </div>
-
                     <?php if (isset($_GET['error']) && $_GET['error'] != '') { ?>
                         <p class="error"><?php echo $_GET['error']; ?></p>
 
