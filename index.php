@@ -36,7 +36,6 @@
                     </div>
                     <?php if (isset($_GET['error']) && $_GET['error'] != '') { ?>
                         <p class="error"><?php echo $_GET['error']; ?></p>
-
                     <?php unset($_GET['error']);
                     } ?>
 
