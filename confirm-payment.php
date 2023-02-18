@@ -53,5 +53,4 @@
     <!--<script src='functions.js'></script>-->
     <script src='payment.js'></script>
 </body>
-
 </html>
