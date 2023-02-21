@@ -142,6 +142,7 @@ class Config
     }
 
     /* Reverse a Transaction */
+    
     public static function reverse(
         $transaction,
         $amount,
