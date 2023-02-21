@@ -295,6 +295,7 @@ class Config
     }
 
     /* Process Results of an API Request */
+    
     public static function results(callable $callback = null)
     {
         $response = json_decode(file_get_contents("php://input"), true);
