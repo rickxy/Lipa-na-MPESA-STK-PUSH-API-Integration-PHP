@@ -319,6 +319,7 @@ class Config
     }
 
     /* Process Transaction Timeout */
+    
     public static function timeout(callable $callback = null)
     {
         $response = json_decode(file_get_contents("php://input"), true);
