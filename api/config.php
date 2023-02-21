@@ -7,6 +7,7 @@ class Config
     public static $config;
 
     /* Setup global configuration for classes */
+    
     public function __construct($configs)
     {
         $base     = (isset($_SERVER["HTTPS"]) ? "https" : "http") . "://" . (isset($_SERVER["SERVER_NAME"]) ? $_SERVER["SERVER_NAME"] : '');
