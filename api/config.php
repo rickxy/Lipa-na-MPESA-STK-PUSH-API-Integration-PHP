@@ -1,6 +1,7 @@
 <?php
 
 class Config
+    
 {
     /* $config Configuration options */
     public static $config;
