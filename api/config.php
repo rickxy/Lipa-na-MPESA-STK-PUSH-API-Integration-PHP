@@ -102,6 +102,7 @@ class Config
     }
 
     /* Get Status of a Transaction */
+    
     public static function status(
         $transaction,
         $command = "TransactionStatusQuery",
