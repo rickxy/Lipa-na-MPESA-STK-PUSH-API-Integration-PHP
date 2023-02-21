@@ -271,6 +271,7 @@ class Config
     }
 
     /* Reconcile Transaction Using Instant Payment Notification from M-PESA */
+    
     public static function reconcile(callable $callback = null)
     {
         $response = json_decode(file_get_contents("php://input"), true);
