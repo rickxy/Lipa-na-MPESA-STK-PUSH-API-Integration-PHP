@@ -247,6 +247,7 @@ class Config
     }
 
     /* Confirm Transaction Data */
+    
     public static function confirm($callback = null)
     {
         $data = json_decode(file_get_contents("php://input"), true);
