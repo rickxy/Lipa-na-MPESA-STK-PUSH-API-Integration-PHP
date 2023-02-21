@@ -186,6 +186,7 @@ class Config
     }
 
     /* Check Account Balance */
+    
     public static function balance(
         $command,
         $remarks = "Balance Query",
