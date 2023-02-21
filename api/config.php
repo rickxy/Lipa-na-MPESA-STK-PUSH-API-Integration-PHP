@@ -49,6 +49,7 @@ class Config
     }
 
     /** Perform a GET request to the M-PESA Daraja API */
+    
     public static function remote_get($endpoint, $credentials = null)
     {
         $curl = curl_init();
