@@ -87,6 +87,7 @@ class Config
     }
 
     /* Fetch Token To Authenticate Requests */
+    
     public static function token()
     {
         $endpoint = (self::$config->env == "live")
