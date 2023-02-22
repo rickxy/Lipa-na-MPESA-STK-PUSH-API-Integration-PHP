@@ -2,6 +2,7 @@
 require('config.php');
 
 session_start();
+
 $base     = (isset($_SERVER["HTTPS"]) ? "https" : "http") . "://" . (isset($_SERVER["SERVER_NAME"]) ? $_SERVER["SERVER_NAME"] : '');
 $defaults = array(
     "env"              => "sandbox",
