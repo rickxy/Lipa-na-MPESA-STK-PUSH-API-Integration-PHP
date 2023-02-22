@@ -20,7 +20,6 @@ $defaults = array(
 );
 $configuration = new Config($defaults);
 if (isset($_POST['submit'])) {
-
     $phone = $_POST['phone'];
     $amount = 1;
     $reference = "ACCOUNT";
