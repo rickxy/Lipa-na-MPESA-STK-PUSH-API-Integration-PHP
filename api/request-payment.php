@@ -18,7 +18,6 @@ $defaults = array(
     "timeout_url"      => $base . "/api/timeout",
     "results_url"      => $base . "/api/results",
 );
-
 $configuration = new Config($defaults);
 if (isset($_POST['submit'])) {
 
